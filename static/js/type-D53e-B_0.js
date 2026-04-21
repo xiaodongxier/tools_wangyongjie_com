@@ -1,0 +1,1 @@
+import{V as t}from"./index-D9uDmv4w.js";function r(e){return t({url:"/system/dict/type/"+e,method:"get"})}function s(){return t({url:"/system/dict/type/optionselect",method:"get"})}export{r as g,s as o};
