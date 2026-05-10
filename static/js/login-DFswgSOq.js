@@ -1,1 +1,0 @@
-import{V as t}from"./index-D9uDmv4w.js";function o(e){return t({url:"/auth/register",headers:{isToken:!1},method:"post",data:e})}function s(e){return t({url:"/auth/unlockscreen",method:"post",data:{password:e}})}function n(){return t({url:"/code",headers:{isToken:!1},method:"get",timeout:2e4})}export{n as g,o as r,s as u};
