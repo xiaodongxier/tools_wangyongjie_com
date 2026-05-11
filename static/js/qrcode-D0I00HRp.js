@@ -1,1 +1,0 @@
-import{_ as a,o,c,i as e}from"./index-C1gAy3Xa.js";const t={class:"tool-page"},d={__name:"qrcode",setup(r){return(p,s)=>(o(),c("div",t,[...s[0]||(s[0]=[e("div",{class:"upgrade-notice"},[e("div",{class:"upgrade-icon"},"🔧"),e("div",{class:"upgrade-title"},"二维码生成"),e("div",{class:"upgrade-desc"},"功能升级中，敬请期待")],-1)])]))}},i=a(d,[["__scopeId","data-v-3e1784ba"]]);export{i as default};
