@@ -1,0 +1,1 @@
+import{ac as t}from"./index-C1gAy3Xa.js";function o(e){return t({url:"/auth/register",headers:{isToken:!1},method:"post",data:e})}function s(e){return t({url:"/auth/unlockscreen",method:"post",data:{password:e}})}function a(){return t({url:"/code",headers:{isToken:!1},method:"get",timeout:2e4})}export{a as g,o as r,s as u};
