@@ -1,0 +1,1 @@
+import{C as e}from"./_chart-base-SsNvi9AO.js";import{a6 as t,v as a,I as n}from"./index-C5drML2Z.js";const o=n({name:"ChartLine3d"}),p=Object.assign(o,{setup(s){return(r,c)=>(t(),a(e,{type:"line3d",title:"3D折线图制作",desc:"在线制作3D折线图，支持三维空间路径展示，可导出为图片",icon:"📈"}))}});export{p as default};
