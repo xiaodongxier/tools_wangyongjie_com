@@ -1,0 +1,1 @@
+import{C as t}from"./_chart-base-q8UjoYZd.js";import{a7 as e,v as s,I as a}from"./index-CbKmAavT.js";const r=a({name:"ChartSunburst"}),u=Object.assign(r,{setup(n){return(o,c)=>(e(),s(t,{type:"sunburst",title:"旭日图制作",desc:"在线制作旭日图，支持多层级环形数据展示，可导出为图片",icon:"☀️"}))}});export{u as default};

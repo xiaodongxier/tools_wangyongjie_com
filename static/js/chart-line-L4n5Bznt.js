@@ -1,1 +1,0 @@
-import{C as e}from"./_chart-base-BXL71bIa.js";import{a6 as t,v as a,I as n}from"./index-CmG8yjbw.js";const o=n({name:"ChartLine"}),p=Object.assign(o,{setup(s){return(r,c)=>(t(),a(e,{type:"line",title:"折线图制作",desc:"在线制作折线图，支持多系列趋势展示，可导出为图片",icon:"📈"}))}});export{p as default};

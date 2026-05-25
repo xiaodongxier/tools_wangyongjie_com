@@ -1,1 +1,0 @@
-import{C as e}from"./_chart-base-BXL71bIa.js";import{a6 as t,v as a,I as r}from"./index-CmG8yjbw.js";const o=r({name:"ChartGlGraph3d"}),i=Object.assign(o,{setup(s){return(c,n)=>(t(),a(e,{type:"glGraph3d",title:"GL关系图制作",desc:"在线制作GL关系图，支持三维力导向关系图展示，可导出为图片",icon:"🕸️"}))}});export{i as default};

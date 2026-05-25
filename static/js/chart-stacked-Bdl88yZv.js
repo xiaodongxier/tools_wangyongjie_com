@@ -1,1 +1,0 @@
-import{C as e}from"./_chart-base-BXL71bIa.js";import{a6 as t,v as a,I as s}from"./index-CmG8yjbw.js";const c=s({name:"ChartStacked"}),i=Object.assign(c,{setup(o){return(r,n)=>(t(),a(e,{type:"stacked",title:"堆叠柱状图制作",desc:"在线制作堆叠柱状图，支持多系列堆叠展示，可导出为图片",icon:"📶"}))}});export{i as default};
