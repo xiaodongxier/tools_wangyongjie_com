@@ -1,1 +1,0 @@
-import{C as e}from"./_chart-base-q8UjoYZd.js";import{a7 as t,v as a,I as r}from"./index-CbKmAavT.js";const o=r({name:"ChartGraph"}),i=Object.assign(o,{setup(s){return(c,n)=>(t(),a(e,{type:"graph",title:"关系图制作",desc:"在线制作关系图，支持节点和连线力导向布局，可导出为图片",icon:"🔗"}))}});export{i as default};

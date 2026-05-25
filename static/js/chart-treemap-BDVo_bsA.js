@@ -1,1 +1,0 @@
-import{C as e}from"./_chart-base-q8UjoYZd.js";import{a7 as t,v as a,I as r}from"./index-CbKmAavT.js";const o=r({name:"ChartTreemap"}),m=Object.assign(o,{setup(s){return(c,n)=>(t(),a(e,{type:"treemap",title:"矩形树图制作",desc:"在线制作矩形树图，支持层级数据面积展示，可导出为图片",icon:"🗺️"}))}});export{m as default};

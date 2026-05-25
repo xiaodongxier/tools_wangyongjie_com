@@ -1,1 +1,0 @@
-import{aG as s,aH as c,a7 as n,x as u}from"./index-CbKmAavT.js";const i={__name:"index",setup(p){const e=s(),t=c(),{params:a,query:o}=e,{path:r}=a;return t.replace({path:"/"+r,query:o}),(_,m)=>(n(),u("div"))}};export{i as default};
