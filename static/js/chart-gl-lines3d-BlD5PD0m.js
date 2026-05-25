@@ -1,1 +1,0 @@
-import{C as e}from"./_chart-base-Dz4jvzDi.js";import{aa as t,w as a,J as s}from"./index-Q9HD0puq.js";const n=s({name:"ChartGlLines3d"}),p=Object.assign(n,{setup(o){return(r,c)=>(t(),a(e,{type:"glLines3d",title:"GL路径图制作",desc:"在线制作GL路径图，支持带轨迹特效的三维路径展示，可导出为图片",icon:"🛤️"}))}});export{p as default};

@@ -1,1 +1,0 @@
-import{C as e}from"./_chart-base-Dz4jvzDi.js";import{aa as a,w as t,J as s}from"./index-Q9HD0puq.js";const n=s({name:"ChartSankey"}),i=Object.assign(n,{setup(o){return(r,c)=>(a(),t(e,{type:"sankey",title:"桑基图制作",desc:"在线制作桑基图，支持数据流转关系展示，可导出为图片",icon:"🔀"}))}});export{i as default};
