@@ -1,0 +1,1 @@
+import{ar as r}from"./index-CmG8yjbw.js";function o(e){return r({url:"/auth/register",headers:{isToken:!1},method:"post",data:e})}function s(e){return r({url:"/auth/unlockscreen",method:"post",data:{password:e}})}function a(){return r({url:"/code",headers:{isToken:!1},method:"get",timeout:2e4})}export{a as g,o as r,s as u};

@@ -1,0 +1,1 @@
+import{C as e}from"./_chart-base-BXL71bIa.js";import{a6 as t,v as a,I as r}from"./index-CmG8yjbw.js";const s=r({name:"ChartSurface3d"}),f=Object.assign(s,{setup(c){return(o,n)=>(t(),a(e,{type:"surface3d",title:"3D曲面图制作",desc:"在线制作3D曲面图，支持三维曲面数据展示，可导出为图片",icon:"🌊"}))}});export{f as default};

@@ -1,0 +1,1 @@
+import{C as e}from"./_chart-base-BXL71bIa.js";import{a6 as t,v as a,I as r}from"./index-CmG8yjbw.js";const o=r({name:"ChartThemeRiver"}),m=Object.assign(o,{setup(s){return(c,n)=>(t(),a(e,{type:"themeRiver",title:"主题河流图制作",desc:"在线制作主题河流图，支持时间序列流变展示，可导出为图片",icon:"🌊"}))}});export{m as default};

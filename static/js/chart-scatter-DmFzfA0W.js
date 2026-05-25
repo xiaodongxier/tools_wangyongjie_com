@@ -1,0 +1,1 @@
+import{C as t}from"./_chart-base-BXL71bIa.js";import{a6 as e,v as a,I as r}from"./index-CmG8yjbw.js";const s=r({name:"ChartScatter"}),i=Object.assign(s,{setup(c){return(o,n)=>(e(),a(t,{type:"scatter",title:"散点图制作",desc:"在线制作散点图，支持多系列数据分布展示，可导出为图片",icon:"⚬"}))}});export{i as default};
