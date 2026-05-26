@@ -1,1 +1,0 @@
-import{C as t}from"./_chart-base-DDw8BrIJ.js";import{aa as e,w as a,J as o}from"./index-BoHnZdI0.js";const n=o({name:"ChartDonut"}),i=Object.assign(n,{setup(s){return(r,c)=>(e(),a(t,{type:"donut",title:"环形图制作",desc:"在线制作环形图，支持自定义数据和样式，可导出为图片",icon:"🍩"}))}});export{i as default};

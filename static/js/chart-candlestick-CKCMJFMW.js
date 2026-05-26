@@ -1,1 +1,0 @@
-import{C as e}from"./_chart-base-DDw8BrIJ.js";import{aa as t,w as a,J as s}from"./index-BoHnZdI0.js";const c=s({name:"ChartCandlestick"}),p=Object.assign(c,{setup(n){return(o,r)=>(t(),a(e,{type:"candlestick",title:"K线图制作",desc:"在线制作K线图（蜡烛图），支持股票数据展示，可导出为图片",icon:"🕯️"}))}});export{p as default};
