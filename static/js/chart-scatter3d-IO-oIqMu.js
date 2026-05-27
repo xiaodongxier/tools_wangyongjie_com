@@ -1,0 +1,1 @@
+import{C as t}from"./_chart-base-D8KPcoKL.js";import{ab as e,w as a,K as r}from"./index-Dj-5M7jA.js";const s=r({name:"ChartScatter3d"}),i=Object.assign(s,{setup(c){return(o,n)=>(e(),a(t,{type:"scatter3d",title:"3D散点图制作",desc:"在线制作3D散点图，支持三维空间数据分布展示，可导出为图片",icon:"⚬"}))}});export{i as default};

@@ -1,1 +1,0 @@
-import{C as a}from"./_chart-base-C7A5IjmS.js";import{aa as e,w as t,J as o}from"./index-CHT1eBRS.js";const s=o({name:"ChartMap3d"}),m=Object.assign(s,{setup(r){return(c,n)=>(e(),t(a,{type:"map3d",title:"3D地图制作",desc:"在线制作3D地图，支持地理位置数据标注展示，可导出为图片",icon:"🗺️"}))}});export{m as default};

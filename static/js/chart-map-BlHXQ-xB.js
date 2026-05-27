@@ -1,0 +1,1 @@
+import{C as e}from"./_chart-base-D8KPcoKL.js";import{ab as t,w as a,K as o}from"./index-Dj-5M7jA.js";const s=o({name:"ChartMap"}),m=Object.assign(s,{setup(r){return(c,n)=>(t(),a(e,{type:"map",title:"地理坐标图制作",desc:"在线制作地理坐标图，支持中国地图数据可视化展示，可导出为图片",icon:"🗺️"}))}});export{m as default};

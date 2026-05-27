@@ -1,1 +1,0 @@
-import{C as a}from"./_chart-base-C7A5IjmS.js";import{aa as e,w as t,J as r}from"./index-CHT1eBRS.js";const o=r({name:"ChartBar3d"}),i=Object.assign(o,{setup(s){return(c,n)=>(e(),t(a,{type:"bar3d",title:"3D柱状图制作",desc:"在线制作3D柱状图，支持三维数据展示，可导出为图片",icon:"📊"}))}});export{i as default};
