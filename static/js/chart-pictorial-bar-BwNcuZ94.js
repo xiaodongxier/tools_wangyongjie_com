@@ -1,1 +1,0 @@
-import{C as t}from"./_chart-base-D8KPcoKL.js";import{ab as a,w as e,K as r}from"./index-Dj-5M7jA.js";const o=r({name:"ChartPictorialBar"}),_=Object.assign(o,{setup(c){return(s,n)=>(a(),e(t,{type:"pictorialBar",title:"象形柱图制作",desc:"在线制作象形柱图，支持自定义图形填充展示，可导出为图片",icon:"🏢"}))}});export{_ as default};

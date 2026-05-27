@@ -1,1 +1,0 @@
-import{C as e}from"./_chart-base-D8KPcoKL.js";import{ab as a,w as t,K as r}from"./index-Dj-5M7jA.js";const o=r({name:"ChartParallel"}),_=Object.assign(o,{setup(s){return(c,n)=>(a(),t(e,{type:"parallel",title:"平行坐标系制作",desc:"在线制作平行坐标系，支持多维度数据对比分析，可导出为图片",icon:"📊"}))}});export{_ as default};

@@ -1,0 +1,1 @@
+import{C as e}from"./_chart-base-DIfLwI7k.js";import{ae as t,z as a,N as n}from"./index-BmYjcR6K.js";const o=n({name:"ChartFunnel"}),f=Object.assign(o,{setup(s){return(r,c)=>(t(),a(e,{type:"funnel",title:"漏斗图制作",desc:"在线制作漏斗图，支持数据流程分析展示，可导出为图片",icon:"🔻"}))}});export{f as default};

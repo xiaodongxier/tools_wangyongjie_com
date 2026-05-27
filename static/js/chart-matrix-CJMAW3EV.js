@@ -1,0 +1,1 @@
+import{C as t}from"./_chart-base-DIfLwI7k.js";import{ae as e,z as a,N as r}from"./index-BmYjcR6K.js";const o=r({name:"ChartMatrix"}),p=Object.assign(o,{setup(s){return(c,n)=>(e(),a(t,{type:"matrix",title:"矩阵坐标系制作",desc:"在线制作矩阵坐标系，支持行列交叉数据展示，可导出为图片",icon:"📋"}))}});export{p as default};
