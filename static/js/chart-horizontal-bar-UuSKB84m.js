@@ -1,1 +1,0 @@
-import{C as t}from"./_chart-base-DIfLwI7k.js";import{ae as a,z as e,N as o}from"./index-BmYjcR6K.js";const r=o({name:"ChartHorizontalBar"}),p=Object.assign(r,{setup(n){return(s,c)=>(a(),e(t,{type:"horizontal-bar",title:"条状图制作",desc:"在线制作横向条状图，支持多系列数据对比，可导出为图片",icon:"📊"}))}});export{p as default};

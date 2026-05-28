@@ -1,1 +1,0 @@
-import{C as a}from"./_chart-base-DIfLwI7k.js";import{ae as e,z as t,N as r}from"./index-BmYjcR6K.js";const o=r({name:"ChartRadar"}),i=Object.assign(o,{setup(s){return(c,n)=>(e(),t(a,{type:"radar",title:"雷达图制作",desc:"在线制作雷达图，支持多维度数据对比分析，可导出为图片",icon:"🕸️"}))}});export{i as default};

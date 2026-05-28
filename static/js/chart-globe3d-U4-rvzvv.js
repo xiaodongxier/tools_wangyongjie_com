@@ -1,1 +1,0 @@
-import{C as e}from"./_chart-base-DIfLwI7k.js";import{ae as t,z as a,N as o}from"./index-BmYjcR6K.js";const s=o({name:"ChartGlobe3d"}),i=Object.assign(s,{setup(r){return(c,n)=>(t(),a(e,{type:"globe3d",title:"3D地球制作",desc:"在线制作3D地球，支持数据点标注展示，可导出为图片",icon:"🌍"}))}});export{i as default};

@@ -1,0 +1,1 @@
+import{C as e}from"./_chart-base-Ln0brH6K.js";import{ae as t,z as a,N as o}from"./index-BcxOV3Ek.js";const s=o({name:"ChartPie"}),i=Object.assign(s,{setup(r){return(c,n)=>(t(),a(e,{type:"pie",title:"饼状图制作",desc:"在线制作饼状图，支持自定义数据和样式，可导出为图片",icon:"🥧"}))}});export{i as default};
