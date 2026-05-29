@@ -1,0 +1,1 @@
+import{aU as s,aV as c,ak as n,C as u}from"./index-CEZOx_3Q.js";const i={__name:"index",setup(p){const e=s(),t=c(),{params:a,query:o}=e,{path:r}=a;return t.replace({path:"/"+r,query:o}),(_,m)=>(n(),u("div"))}};export{i as default};
