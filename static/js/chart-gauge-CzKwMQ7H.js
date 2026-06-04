@@ -1,0 +1,1 @@
+import{C as e}from"./ChartBase-C4FUNs7S.js";import{o as t,l as a,A as o}from"./index-WFYE79tO.js";const s=o({name:"ChartGauge"}),i=Object.assign(s,{setup(r){return(c,n)=>(t(),a(e,{type:"gauge",title:"仪表盘制作",desc:"在线制作仪表盘，支持进度指标展示，可导出为图片",icon:"🎯"}))}});export{i as default};

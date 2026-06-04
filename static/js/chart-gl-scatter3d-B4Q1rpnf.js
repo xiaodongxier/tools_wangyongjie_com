@@ -1,1 +1,0 @@
-import{C as t}from"./ChartBase-BC0pxOLM.js";import{ak as e,A as a,O as r}from"./index-CEZOx_3Q.js";const c=r({name:"ChartGlScatter3d"}),i=Object.assign(c,{setup(o){return(s,n)=>(e(),a(t,{type:"glScatter3d",title:"GL散点图制作",desc:"在线制作GL散点图，支持大数据量三维散点渲染，可导出为图片",icon:"💫"}))}});export{i as default};

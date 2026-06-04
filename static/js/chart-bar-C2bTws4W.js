@@ -1,1 +1,0 @@
-import{C as e}from"./ChartBase-BC0pxOLM.js";import{ak as t,A as a,O as r}from"./index-CEZOx_3Q.js";const o=r({name:"ChartBar"}),i=Object.assign(o,{setup(s){return(c,n)=>(t(),a(e,{type:"bar",title:"柱状图制作",desc:"在线制作柱状图，支持多系列数据对比，可导出为图片",icon:"📊"}))}});export{i as default};

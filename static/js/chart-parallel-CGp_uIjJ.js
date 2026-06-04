@@ -1,1 +1,0 @@
-import{C as e}from"./ChartBase-BC0pxOLM.js";import{ak as a,A as t,O as r}from"./index-CEZOx_3Q.js";const o=r({name:"ChartParallel"}),_=Object.assign(o,{setup(s){return(c,n)=>(a(),t(e,{type:"parallel",title:"平行坐标系制作",desc:"在线制作平行坐标系，支持多维度数据对比分析，可导出为图片",icon:"📊"}))}});export{_ as default};

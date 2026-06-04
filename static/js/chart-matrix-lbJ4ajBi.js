@@ -1,1 +1,0 @@
-import{C as t}from"./ChartBase-BC0pxOLM.js";import{ak as e,A as a,O as r}from"./index-CEZOx_3Q.js";const o=r({name:"ChartMatrix"}),p=Object.assign(o,{setup(s){return(c,n)=>(e(),a(t,{type:"matrix",title:"矩阵坐标系制作",desc:"在线制作矩阵坐标系，支持行列交叉数据展示，可导出为图片",icon:"📋"}))}});export{p as default};
