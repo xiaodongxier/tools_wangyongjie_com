@@ -1,0 +1,1 @@
+import{C as e}from"./ChartBase-D1x-wt3k.js";import{o as t,l as o,A as a}from"./index-BmGppacO.js";const r=a({name:"ChartChord"}),i=Object.assign(r,{setup(s){return(c,n)=>(t(),o(e,{type:"chord",title:"和弦图制作",desc:"在线制作和弦图，支持节点间关系强度展示，可导出为图片",icon:"🎯"}))}});export{i as default};

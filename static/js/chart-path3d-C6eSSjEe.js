@@ -1,1 +1,0 @@
-import{C as t}from"./ChartBase-C4FUNs7S.js";import{o as e,l as a,A as o}from"./index-WFYE79tO.js";const s=o({name:"ChartPath3d"}),i=Object.assign(s,{setup(r){return(c,n)=>(e(),a(t,{type:"path3d",title:"3D路径图制作",desc:"在线制作3D路径图，支持三维空间轨迹展示，可导出为图片",icon:"🛤️"}))}});export{i as default};

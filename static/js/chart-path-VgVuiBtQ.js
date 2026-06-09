@@ -1,1 +1,0 @@
-import{C as t}from"./ChartBase-C4FUNs7S.js";import{o as e,l as a,A as o}from"./index-WFYE79tO.js";const s=o({name:"ChartPath"}),i=Object.assign(s,{setup(r){return(c,n)=>(e(),a(t,{type:"path",title:"路径图制作",desc:"在线制作路径图，支持带轨迹动画的路径展示，可导出为图片",icon:"🛤️"}))}});export{i as default};
