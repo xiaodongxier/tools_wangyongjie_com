@@ -1,1 +1,0 @@
-import{C as t}from"./ChartBase-COY1T3oc.js";import{o as e,l as o,A as a}from"./index-hsgQ7BUj.js";const s=a({name:"ChartBoxplot"}),l=Object.assign(s,{setup(r){return(c,n)=>(e(),o(t,{type:"boxplot",title:"盒须图制作",desc:"在线制作盒须图（箱线图），支持数据分布统计展示，可导出为图片",icon:"📦"}))}});export{l as default};
