@@ -1,1 +1,0 @@
-import{C as e}from"./ChartBase-D1x-wt3k.js";import{o as t,l as a,A as o}from"./index-BmGppacO.js";const r=o({name:"ChartTree"}),i=Object.assign(r,{setup(s){return(c,n)=>(t(),a(e,{type:"tree",title:"树图制作",desc:"在线制作树图，支持层级数据树形展示，可导出为图片",icon:"🌲"}))}});export{i as default};

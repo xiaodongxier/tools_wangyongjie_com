@@ -1,0 +1,1 @@
+import{C as e}from"./ChartBase-COY1T3oc.js";import{o as t,l as a,A as o}from"./index-hsgQ7BUj.js";const s=o({name:"ChartHeatmap"}),m=Object.assign(s,{setup(r){return(c,n)=>(t(),a(e,{type:"heatmap",title:"热力图制作",desc:"在线制作热力图，支持二维数据密度展示，可导出为图片",icon:"🌡️"}))}});export{m as default};

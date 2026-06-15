@@ -1,67 +1,81 @@
-# 🎯 前端练习场
+# ⚡ SuperKit — 超级工具系统
 
-> 该项目为自动部署
-
-> 基于 RuoYi-Cloud-Vue3 的前端组件开发练习项目
+> **All-in-One 前端工具箱 · 120+ 工具 · 纯前端运行 · 零服务端依赖**
 
 ---
 
-## 📋 项目简介
+## 🏷️ 一句话介绍
 
-这是一个用于前端组件开发和测试的练习项目，移除了后端登录依赖，打开即可进入首页开发。
-
-### ✨ 特性
-
-- 🚀 **无登录开发** - 打开即用，无需后端服务
-- 📦 **组件示例** - 包含表格、表单、图表、图标等常用示例
-- 🎨 **快速原型** - 方便快速开发和测试前端组件
-- 🔧 **静态路由** - 灵活添加测试页面
+SuperKit 是一款面向开发者的**全栈工具聚合平台**，涵盖数据处理、编码加密、开发调试、文本处理、图表可视化、文件处理、生活实用、儿童教育等 **8 大领域**，所有工具**纯浏览器运行**，数据不离开本地，开箱即用。
 
 ---
 
-## 🛠️ 技术栈
+## 📊 系统概览
 
-| 技术         | 版本   | 说明                   |
-| ------------ | ------ | ---------------------- |
-| Vue          | 3.5.x  | 渐进式 JavaScript 框架 |
-| Vite         | 6.x    | 下一代前端构建工具     |
-| Element Plus | 2.13.x | Vue 3 组件库           |
-| Pinia        | 3.x    | Vue 状态管理           |
-| Vue Router   | 4.x    | Vue 路由管理           |
+| 指标 | 数据 |
+|:---:|:---:|
+| 🔧 工具总数 | **120+** |
+| 📂 工具分类 | **8 大类** |
+| 🖥️ 运行环境 | **纯前端 · 零后端** |
+| 🔒 数据安全 | **本地处理 · 不上传** |
+| ⚡ 构建工具 | **Vite 6** |
+| 🎨 UI 框架 | **Element Plus 2.13** |
 
 ---
 
-## 📂 项目结构
+## 🧰 工具矩阵
+
+### 📷 图片工具
+> 图片预览 · 图片压缩 · 格式转换 · 九宫格切图 · 马赛克 · 文字图片 · 二维码生成
+
+### 📄 PDF 工具
+> PDF 预览 · PDF 编辑 · PDF 合并 · PDF 拆分
+
+### 🔄 数据转换工具
+> 温度 · 长度 · 面积 · 体积 · 重量 · 压力 · 功率 · 速度 · 时间 · 数据存储 · 进制 · 角度 · 频率 · 能量 · 五险一金 · 公积金 · 房贷 · 车贷 · 贷款计算器
+
+### 🛠️ 开发工具
+> JSON 格式化 · JSON 编辑器 · 文件对比 · 颜色转换 · Markdown 编辑器 · Base64 · URL 编解码 · 正则测试 · Unix 时间戳 · 代码对比 · 密码生成器 · UUID · HTML 实体 · 大小写转换 · Cron 表达式 · 键盘测试 · MD5/SHA 哈希 · JWT 解析 · CSS 单位转换 · JSON↔CSV · YAML↔JSON · SQL 格式化 · 加密解密工具箱
+
+### 📝 文本工具
+> 文本转语音 · 简繁体转换 · 文本对比 · 文字转拼音 · 字数统计 · 文本去重 · 文本加密 · 语音转文字
+
+### 📈 ECharts 制图
+> 饼状图 · 环形图 · 柱状图 · 折线图 · 堆叠图 · 条状图 · 面积图 · 雷达图 · 散点图 · 漏斗图 · 仪表盘 · 矩形树图 · K 线图 · 地理坐标图 · 路径图 · 日历坐标系 · 和弦图 · 盒须图 · 热力图 · 关系图 · 树图 · 旭日图 · 桑基图 · 主题河流图 · 3D 地球 · 3D 柱状图 · 3D 散点图 · 3D 曲面图 · GL 矢量场图 等 **37 种图表**
+
+### 🏠 生活工具
+> 垃圾分类 · 身份证查询 · 手机归属地 · IP 查询 · 邮编查询 · 随机数 · BMI · 倒计时 · 网速测试 · 日期计算 · 年龄计算 · 世界时钟 · 金额大写 · 星座查询 · 生肖查询 · 身体指数
+
+### 👶 儿童专区
+> 数学题生成 · 口算练习 · 比大小 · 竖式计算 · 填空练习 · 乘法口诀表 · 应用题 · 组词生成
+
+---
+
+## ⚙️ 技术栈
 
 ```
-├── public/             # 静态资源
-├── src/                # 源代码
-│   ├── views/          # 页面组件
-│   │   ├── index.vue   # 首页
-│   │   ├── test/       # 测试组件
-│   │   └── demo/       # 示例组件
-│   ├── components/     # 公共组件
-│   ├── layout/         # 布局组件
-│   ├── router/         # 路由配置
-│   ├── store/          # 状态管理
-│   └── assets/         # 资源文件
-├── .github/            # GitHub 配置
-│   └── workflows/      # CI/CD 工作流
-└── package.json        # 项目配置
+Vue 3.5 + Vite 6 + Element Plus 2.13 + Pinia 3 + Vue Router 4 + ECharts 5.6
 ```
+
+| 层级 | 技术选型 |
+|:---|:---|
+| 框架 | Vue 3 Composition API |
+| 构建 | Vite 6 · ESModule |
+| 组件库 | Element Plus 2.13 |
+| 状态管理 | Pinia 3 |
+| 图表引擎 | ECharts 5.6 + echarts-gl |
+| 代码编辑 | Monaco Editor + CodeMirror 6 |
+| HTTP | Axios |
+| 样式 | SCSS |
 
 ---
 
-## 🚀 快速开始
-
-### 环境要求
-
-- Node.js >= 18.x
-- npm >= 9.x
-
-### 本地开发
+## 🚀 本地运行
 
 ```bash
+# 克隆项目
+git clone <仓库地址>
+
 # 安装依赖
 npm install
 
@@ -74,98 +88,17 @@ npm run build:prod
 
 ---
 
-## 📚 示例页面
+## 📌 特性亮点
 
-### 📊 表格示例 (`/demo/table`)
-
-- 搜索栏、数据表格、分页组件
-- 适用于列表页开发
-
-### 📝 表单示例 (`/demo/form`)
-
-- 各种表单元素和验证
-- 适用于新增/编辑页面
-
-### 📈 图表示例 (`/demo/chart`)
-
-- 数据卡片、柱状图、进度环
-- 适用于数据看板
-
-### 🎨 图标示例 (`/demo/icon`)
-
-- SVG 和 Element Plus 图标展示
-- 方便选择图标
+- 🔒 **隐私优先** — 所有数据本地处理，不经过任何服务器
+- ⚡ **极致性能** — Vite 6 构建，秒级启动，按需加载
+- 🧩 **模块化设计** — 工具按类别组织，新增工具只需一个文件
+- 🎯 **开箱即用** — 无需注册、无需配置、无需后端
+- 🌐 **跨平台** — 支持 Chrome / Edge / Firefox / Safari
+- 📱 **响应式** — 完美适配桌面端与移动端
 
 ---
 
-## 🔧 开发指南
-
-### 添加新页面
-
-1. 在 `src/views/` 下创建组件文件
-2. 在 `src/router/index.js` 的 `constantRoutes` 中添加路由配置
-3. 刷新浏览器查看效果
-
-### 路由配置示例
-
-```javascript
-{
-  path: "/my-page",
-  component: Layout,
-  redirect: "/my-page/index",
-  meta: { title: "我的页面", icon: "edit" },
-  children: [
-    {
-      path: "index",
-      component: () => import("@/views/my-page/index"),
-      name: "MyPage",
-      meta: { title: "我的页面", icon: "edit" }
-    }
-  ]
-}
-```
-
----
-
-## 📦 自动部署
-
-项目使用 GitHub Actions 自动部署：
-
-1. 向 `dev` 分支推送代码
-2. commit 信息包含 `#部署`
-3. 自动构建并推送到目标仓库
-
-### 示例
-
-```bash
-git add .
-git commit -m "feat: 添加新功能 #部署"
-git push origin dev
-```
-
----
-
-## 📖 相关文档
-
-- [Vue 3 文档](https://cn.vuejs.org/)
-- [Element Plus 文档](https://element-plus.org/zh-CN/)
-- [Vite 文档](https://cn.vitejs.dev/)
-- [Pinia 文档](https://pinia.vuejs.org/zh/)
-
----
-
-## 📄 许可证
-
-[MIT License](LICENSE)
-
----
-
-## 👤 作者
-
-**xiaodongxier**
-
-- GitHub: [@xiaodongxier](https://github.com/xiaodongxier)
-
----
-
-> 💡 这个项目主要用于前端组件的开发和测试，欢迎 Star ⭐
+<p align="center">
+  <sub>Built with ❤️ · Powered by Vue 3 + Vite</sub>
+</p>
