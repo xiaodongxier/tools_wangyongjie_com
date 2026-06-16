@@ -1,1 +1,0 @@
-import{C as e}from"./ChartBase-uoVz19Dp.js";import{o as t,l as a,C as o}from"./index-Sd27mHm-.js";const r=o({name:"ChartStackedArea"}),i=Object.assign(r,{setup(s){return(c,n)=>(t(),a(e,{type:"stacked-area",title:"堆叠面积图制作",desc:"在线制作堆叠面积图，支持多系列面积堆叠展示，可导出为图片",icon:"🏔️"}))}});export{i as default};

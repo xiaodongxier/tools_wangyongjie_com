@@ -1,1 +1,0 @@
-import{C as e}from"./ChartBase-uoVz19Dp.js";import{o as t,l as o,C as a}from"./index-Sd27mHm-.js";const s=a({name:"ChartGlFlow"}),p=Object.assign(s,{setup(r){return(c,n)=>(t(),o(e,{type:"glFlowGL",title:"GL矢量场图制作",desc:"在线制作GL矢量场图，支持二维矢量流动场展示，可导出为图片",icon:"🌊"}))}});export{p as default};
