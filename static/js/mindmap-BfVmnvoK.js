@@ -1,0 +1,1 @@
+import{D as e}from"./DiagramWorkbench-BR1vxUIq.js";import{o as a,l as n}from"./index-DDzSeJQo.js";const p=Object.assign({name:"ToolFlowchartMindmap"},{__name:"mindmap",setup(o){return(m,r)=>(a(),n(e,{key:"online-mindmap",mode:"mind",title:"在线脑图","storage-key":"enterprise-online-mindmap-v2"}))}});export{p as default};

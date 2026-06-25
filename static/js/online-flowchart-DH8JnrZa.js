@@ -1,0 +1,1 @@
+import{D as e}from"./DiagramWorkbench-BR1vxUIq.js";import{o,l as r}from"./index-DDzSeJQo.js";const s=Object.assign({name:"ToolFlowchartOnline"},{__name:"online-flowchart",setup(t){return(a,n)=>(o(),r(e,{key:"online-flowchart",mode:"flow",title:"在线流程图","storage-key":"enterprise-online-flowchart-v2"}))}});export{s as default};

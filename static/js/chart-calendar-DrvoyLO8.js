@@ -1,0 +1,1 @@
+import{C as e}from"./ChartBase-oLHCvTD0.js";import{o as a,l as t,C as o}from"./index-DDzSeJQo.js";const r=o({name:"ChartCalendar"}),l=Object.assign(r,{setup(n){return(s,c)=>(a(),t(e,{type:"calendar",title:"日历坐标系制作",desc:"在线制作日历坐标系，支持按日展示数据热力分布，可导出为图片",icon:"📅"}))}});export{l as default};
